@@ -5,6 +5,9 @@ It currently uses fake data to fill the pages and is not connected to any backen
 You can also comment out fetch inside the loader and remove fakedata from it to use the backend. 
 Backend is not included in this repo.
 
+## Preview at:
+https://komiko.leaveitblank.co/
+
 ## Available Scripts
 
 In the project directory, you can run:
