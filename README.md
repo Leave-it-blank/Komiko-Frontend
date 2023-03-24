@@ -8,6 +8,20 @@ Backend is not included in this repo.
 ## Preview at:
 https://komiko.leaveitblank.co/
 
+## Demo:
+Here you can see the demo images of the website:
+
+**Home**
+<img width="1268" alt="image" src="https://user-images.githubusercontent.com/84919650/227567044-399a9581-2bb6-47ad-ba8d-17e520e5b29d.png">
+![image](https://user-images.githubusercontent.com/84919650/227567335-48c14eb2-1820-4ddb-95fc-4eee465131dc.png)
+
+**Latest**
+![image](https://user-images.githubusercontent.com/84919650/227567552-66315cff-6221-447b-85b4-1bbe096a482f.png)
+
+**Comic**
+![image](https://user-images.githubusercontent.com/84919650/227567892-18aac7da-12d6-4d95-89e7-afb0fda64ef4.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
